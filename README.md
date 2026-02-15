@@ -19,8 +19,8 @@ Welcome to my collection of awards and certificates, demonstrating my journey in
 ## 🎓 Academic Achievements
 ### Academic Excellence Awards (รางวัลเรียนดี)
 Recognition for outstanding academic performance (Top tier of the class).
-* 📄 **2024:** [Academic Excellence Award 2024 (PDF)](เกียรติบัตรรางวัลการเรียนดี_2567.pdf)
-* 📄 **2023:** [Academic Excellence Award 2023 (PDF)](เกียรติบัตรรางวัลการเรียนดี_2566.pdf)
+* 📄 **2024:** [Academic Excellence Award 2024 (PDF)](Academic-Excellence-Award-2024.pdf)
+* 📄 **2023:** [Academic Excellence Award 2023 (PDF)](Academic-Excellence-Award-2023.pdf)
 
 ---
 
